@@ -1,0 +1,31 @@
+.footer {
+  /* background-color: orange; */
+  background-color: #161619;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  margin-top: 2rem;
+  height: 45px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-icons {
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  display: flex;
+  width: 50%;
+  /* background-color: red; */
+}
+
+.footer .fa-brands {
+  width: 25px;
+  height: 25px;
+  color: #000;
+  background-color: #918e98;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
